@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the repository URL
-REPO_URL="https://github.com/cryptobunkie/swtr06"
+REPO_URL="https://github.com/bagyaraj937/deploy6"
 
 # Create a temporary directory to clone the repository
 TEMP_DIR=$(mktemp -d)
@@ -52,7 +52,7 @@ sed -i 's|PRIVATE_KEY="[^"]*"|PRIVATE_KEY=""|g' .env
 echo ""
 echo "👍👍 ALL DONE 👍👍"
 echo ""
-echo "Credit to AnonID.TOP for laying the groundwork 👏👏"
+echo "Happy Farmimgs Bro's From TeluguEarnings 👏👏"
 echo ""
-echo "Join my Telegram channel for more updates: https://t.me/CryptoBunkie"
+echo "Join my Telegram channel for more updates: https://t.me/Teluguearnings"
 echo ""
